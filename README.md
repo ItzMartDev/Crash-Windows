@@ -29,7 +29,7 @@ Just click the link and save the file to your computer. Double-click to unleash 
 
 1. Clone this repository:
 
-<pre><code>```bashgit clone https://github.com/ItzMartDev/Crash-Windows.git```</code></pre>
+<pre><code>git clone https://github.com/ItzMartDev/Crash-Windows.git</code></pre>
 
 2. Navigate into the folder and open the source code (if available).
 3. Compile the code using your preferred compiler for Windows.
